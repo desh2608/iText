@@ -1,0 +1,8 @@
+The issues currently with this version of iText are:
+
+1. Menus for Find and Replace should not appear together, i.e., if Find menu is displayed, it should get hidden if
+Replace is clicked.
+
+2. Similarly for Find/Replace and Goto.
+
+3. Context menu (Open With.. option for text files) needs to be created.
